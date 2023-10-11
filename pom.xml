@@ -113,7 +113,7 @@
 		<dependency>
 			<groupId>org.apache.zookeeper</groupId>
 			<artifactId>zookeeper</artifactId>
-			<version>3.4.14</version>
+			<version>3.7.2</version>
 		</dependency>
 		<!-- 把客户端做成一个web应用以方便展示 -->
 		<dependency>
